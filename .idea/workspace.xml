@@ -5,23 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65ec2143-e686-423d-926e-af59b6c45771" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/components/MyCardanoWallet.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/nav.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/api/gql-fetch.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/api/wallets/cardano/fungible-tokens.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/api/wallets/cardano/non-fungible-tokens.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/waffle-icon.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/date.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/date.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/layout.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/components/layout.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/posts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloudbuild.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/api/hello.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/api/hello.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/posts/[id].js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/posts/[id].tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +84,8 @@
       <workItem from="1688830563508" duration="599000" />
       <workItem from="1689972042503" duration="560000" />
       <workItem from="1690155003996" duration="921000" />
-      <workItem from="1691258058194" duration="2316000" />
+      <workItem from="1691258058194" duration="2727000" />
+      <workItem from="1691329323099" duration="4152000" />
     </task>
     <servers />
   </component>

@@ -68,3 +68,21 @@ EXPOSE 3000
 
 # Run the application.
 CMD yarn start
+
+# ______________________ CUT HERE ________________________
+# Custom Dockerfile
+#FROM node:alpine
+#
+#LABEL author="Wyeth Jackson"
+#
+#ENV NODE_ENV=production
+#ENV PORT=3000
+#
+#WORKDIR /var/www
+#
+#COPY package.json yarn.lock
+#RUN yarn
+#COPY . ./
+#EXPOSE $PORT
+#
+#ENTRYPOINT ["yarn", "start"]
